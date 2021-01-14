@@ -3,6 +3,7 @@ FDT - Food Token project has good people behind who worked in different foods in
 
 
 Why Food Token?
+
 True DeFi - use case
 Open - Source
 Blockchain traceability
@@ -34,4 +35,5 @@ https://fdt-token.com
 • PLATFORM – ETH Smart Contract 
 
 • STANDARD – ERC 20
-© 2021 GitHub, Inc.
+
+©FDT.githubpage.official
