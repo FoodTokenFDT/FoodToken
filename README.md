@@ -5,17 +5,29 @@ FDT - Food Token project has good people behind who worked in different foods in
 Why Food Token?
 
 True DeFi - use case
+
 Open - Source
+
 Blockchain traceability
+
 Easy to start at low costs
+
 Solid community growing
+
 Great developers and team
+
 Own decentralised staking platform
+
 Working products & integration
+
 E-commerce & marketplace
+
 Solvency & Transparency
+
 Revolutionary & Compatibility
+
 Serving Gods & Health
+
 Trustless & Decentralised
 
 Food token aims to be a real digital money and use case for any person with a great technology behind.
@@ -28,7 +40,7 @@ https://fdt-token.com
 
 • SYMBOL – FDT
 
-• TOTAL SUPPLY –  6.000.000.000.000 (6 Trillion)
+• TOTAL Max.SUPPLY – 6 Trillion tokens
 
 • DECIMALS – 18
 
