@@ -39,23 +39,38 @@ Food Token is circulating on Ethereum and Binance Smart-Chain.
  Ethereum Blockchain ERC20
 
 ▪CREATED – 10.03.2020
+
 ▪NAME – FOOD TOKEN
+
 ▪SYMBOL – FDT
+
 ▪TOTAL Max.SUPPLY – 6 Trillion tokens
+
 ▪DECIMALS – 18
+
 ▪PLATFORM – ETH Smart Contract 
+
 ▪STANDARD – ERC 20
+
 ▪CONTRACT – 0xb2a01ad9738450f082e5238e43b17fe80781faae 
+
 
 Binance Smart-Chain BEP20
 
 ▪CREATED – 21 May 2021
+
 ▪NAME – FOOD TOKEN
+
 ▪SYMBOL – FDT
+
 ▪TOTAL SUPPLY – 6.000.000.000.000 (6 Trillion)
+
 ▪DECIMALS – 18
+
 ▪PLATFORM – BSC Smart Chain
+
 ▪STANDARD – BSC 20
+
 ▪CONTRACT – 0xab5fa2F5630f191a146bF3f25390BCF3FaF416F4
 
 
