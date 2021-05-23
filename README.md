@@ -32,20 +32,31 @@ Trustless & Decentralised
 
 Food token aims to be a real digital money and use case for any person with a great technology behind.
 
-https://fdt-token.com
+Website - https://fdt-token.com
 
-• CREATED – 10.03.2020
+Food Token is circulating on Ethereum and Binance Smart-Chain.
 
-• NAME – FOOD TOKEN
+ Ethereum Blockchain ERC20
 
-• SYMBOL – FDT
+▪CREATED – 10.03.2020
+▪NAME – FOOD TOKEN
+▪SYMBOL – FDT
+▪TOTAL Max.SUPPLY – 6 Trillion tokens
+▪DECIMALS – 18
+▪PLATFORM – ETH Smart Contract 
+▪STANDARD – ERC 20
+▪CONTRACT – 0xb2a01ad9738450f082e5238e43b17fe80781faae 
 
-• TOTAL Max.SUPPLY – 6 Trillion tokens
+Binance Smart-Chain BEP20
 
-• DECIMALS – 18
+▪CREATED – 21 May 2021
+▪NAME – FOOD TOKEN
+▪SYMBOL – FDT
+▪TOTAL SUPPLY – 6.000.000.000.000 (6 Trillion)
+▪DECIMALS – 18
+▪PLATFORM – BSC Smart Chain
+▪STANDARD – BSC 20
+▪CONTRACT – 0xab5fa2F5630f191a146bF3f25390BCF3FaF416F4
 
-• PLATFORM – ETH Smart Contract 
-
-• STANDARD – ERC 20
 
 ©FDT.githubpage.official
